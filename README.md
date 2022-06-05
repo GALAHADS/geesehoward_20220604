@@ -141,7 +141,7 @@ kill 명령어는 대개 프로세스를 죽일 때 사용한다. 하지만 내�
 ![image](https://user-images.githubusercontent.com/51511042/172045674-3b8fc92f-8465-434d-a848-cfb4a4738214.png)
 
 잘 작동되는 모습이다.
-
+ 
 또한 매크로를 여러번 실행시키고싶다면 `[Number]@[Name]` 이런식으로 숫자만큼 반복시킬수있다.
 
 
